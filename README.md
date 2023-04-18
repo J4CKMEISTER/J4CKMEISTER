@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jack , also known as Jackmeister in CTF and Cyber Space
 - 👀 I’m interested in offensive cybersecurity
 - 🌱 I’m on my cybersecurity journey that leads to somewhere
-- 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me :
 https://j4ckmeister.github.io/whoami
 
